@@ -1,5 +1,5 @@
 # GitHub Portfolio Website
-<img src= "C:\Users\jbond\OneDrive\Desktop\Coding Images\websitescreen.png">
+<img src= "websitescreen.png" width='300'/>
 
 This is a web page created to showcase my GitHub portfolio.
 
