@@ -1,3 +1,6 @@
+#website
+<img src= "C:\Users\jbond\OneDrive\Desktop\Coding Images\websitescreen.png" width='300'>
+
 This is a web page created to showcase my GitHub portfolio.
 
 Description of the project: My web page will provide you with links to my bio video on YouTube, as well as links to follow me on social media, a link to contact me via email and most importantly links to my GitHub projects to date. Included are links to 3 different GitHub project repo's that highlight various coding skills I have developed while enrolled in the MIT xPRO Full-stack Coding Certificate program. 
