@@ -1,5 +1,6 @@
 # GitHub Portfolio Website
-<img src= "websitescreen.png" width='300'/>
+<a href="file:///C:/Users/jbond/OneDrive/Desktop/GitHub%20Portfolio%20Project.html">
+<img src= "websitescreen.png" width='300'/> </a>
 
 This is a web page created to showcase my GitHub portfolio.
 
